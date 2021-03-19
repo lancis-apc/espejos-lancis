@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California y Yucatán
-=====================================================================================================
+Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California Sur y Yucatán
+========================================================================================================
 
 **Afiliación** Área de Planeación Colaborativa, Laboratorio Nacional de Ciencias de la Sostenibilidad, Instituto de Ecología, Universidad Nacional Autónoma de México
 
