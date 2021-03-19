@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California y Yucatán'
-copyright = '2020, PAPIIT'
-author = 'LANCIS'
+copyright = '2020, Instituto de Ecología, Universidad Nacional Autónoma de México'
+author = 'Área de Planeación Colaborativa, Laboratorio Nacional de Ciencias de la Sostenibilidad'
 
 # The short X.Y version
 version = ''

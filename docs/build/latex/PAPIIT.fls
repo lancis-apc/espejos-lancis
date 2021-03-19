@@ -1,4 +1,4 @@
-PWD C:\Dropbox (LANCIS)\SIG\desarrollo\sig_papiit\finales\documentacion\espejos-lancis\docs\build\latex
+PWD C:\Dropbox (LANCIS)\CARPETAS_TRABAJO\vhernandez\repositorios_git\espejos-lancis\docs\build\latex
 INPUT C:\Users\Victor\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
 INPUT PAPIIT.tex
 OUTPUT PAPIIT.log
@@ -265,6 +265,9 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmb8r.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvbc8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
+INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8t.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8t.tfm
 INPUT vulnerabilidad_exposicion_13abr2020.png
@@ -284,7 +287,6 @@ INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvr8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvr8r.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\helvetic\phvb8r.tfm
-INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\helvetic\phvb8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmri8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmri8r.tfm
 INPUT fv_c_exp_veg_acuatica.png
@@ -294,8 +296,6 @@ INPUT .\fv_c_exp_veg_acuatica.png
 INPUT .\fv_c_exp_veg_acuatica.png
 INPUT fv_c_exp_veg_acuatica.png
 INPUT .\fv_c_exp_veg_acuatica.png
-INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\times\ptmr8t.vf
-INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\times\ptmr8r.tfm
 INPUT C:\Program Files\MiKTeX 2.9\fonts\vf\adobe\courier\pcrr8t.vf
 INPUT C:\Program Files\MiKTeX 2.9\fonts\tfm\adobe\courier\pcrr8r.tfm
 INPUT fv_c_exp_dunas_costeras.png
