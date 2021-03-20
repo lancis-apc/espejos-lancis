@@ -19,9 +19,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California y Yucatán'
-copyright = '2020, Instituto de Ecología, Universidad Nacional Autónoma de México'
-author = 'Área de Planeación Colaborativa, Laboratorio Nacional de Ciencias de la Sostenibilidad'
+project = 'Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera: Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California Sur y Yucatán'
+copyright = '2020, LANCIS, Instituto de Ecología, UNAM'
+author = 'LANCIS,UNAM'
 
 # The short X.Y version
 version = ''
@@ -143,8 +143,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'PAPIIT.tex', 'Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California y Yucatán',
-     'LANCIS', 'manual'),
+    (master_doc, 'PAPIIT.tex', 'Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera: Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California Sur y Yucatán',
+     'LANCIS,UNAM', 'manual'),
 ]
 
 
@@ -153,7 +153,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'PAPITT', 'Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California y Yucatán',
+    (master_doc, 'papiit_vulnerabilidad_costera', 'Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera: Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California Sur y Yucatán',
      [author], 1)
 ]
 
@@ -164,8 +164,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'PAPIIT', 'Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California y Yucatán',
-     author, 'PAPIIT', 'One line description of project.',
+    (master_doc, 'papiit_vulnerabilidad_costera', 'Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera: Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California Sur y Yucatán',
+     author, 'LANCIS,UNAM', 'One line description of project.',
      'Miscellaneous'),
 ]
 

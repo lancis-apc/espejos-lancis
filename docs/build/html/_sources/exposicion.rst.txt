@@ -239,6 +239,7 @@ exposición = exp_biologica * 0.50 + exp_fisica * 0.50
 
 
 
+
 .. ####liga de los metadatos#####
 .. parte Biológica 
 

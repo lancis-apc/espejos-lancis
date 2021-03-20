@@ -3,13 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California Sur y Yucatán
-========================================================================================================
+Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera: Documentación del modelo multicriterio de la vulnerabilidad costera para Baja California Sur y Yucatán
+================================================================================================================================================================================================================================================
 
-**Afiliación** Área de Planeación Colaborativa, Laboratorio Nacional de Ciencias de la Sostenibilidad, Instituto de Ecología, Universidad Nacional Autónoma de México
+**Programa de Apoyo a Proyectos de Investigación e Innovación Tecnológica (PAPIIT IV100118)**
 
-**Reconocimiento** Este trabajo fue realizado con financiamiento del Programa de Apoyo a Proyectos de Investigación e Innovación Tecnológica (PAPIIT IV100118) 
-del proyecto Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera.
+**Área de Planeación Colaborativa, Laboratorio Nacional de Ciencias de la Sostenibilidad, Instituto de Ecología, Universidad Nacional Autónoma de México**
+
+
+
+
+
+.. **Afiliación** Área de Planeación Colaborativa, Laboratorio Nacional de Ciencias de la Sostenibilidad, Instituto de Ecología, Universidad Nacional Autónoma de México
+
+.. **Reconocimiento** Este trabajo fue realizado con financiamiento del Programa de Apoyo a Proyectos de Investigación e Innovación Tecnológica (PAPIIT IV100118) 
+.. del proyecto Análisis integrado de sistemas socio-ambientales acoplados: desarrollo de capacidades para la evaluación de la vulnerabilidad costera.
+
+
+**página web:**   https://lancis-apc.github.io/espejos-lancis/
+
 
 
 .. toctree::
